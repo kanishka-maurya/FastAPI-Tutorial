@@ -1,39 +1,9 @@
-# langchain core
-Langchain
-langchain-Core
-langchain_community
-langchain_experimental
-
-# openAI integration
-langchain-openai 
-openai
-
-# anthropic integration
-langchain-anthropic
-
-# google gemini integration
-langchain-google-genai
-google-generativeai
-
-# hugging face integration
-langchain-huggingface
-transformers
-huggingface-hub
-sentence-transformers
-
-# environment variable management
-python-dotenv
-
-# machine learning utilities
+pandas
 numpy
 scikit-learn
+pydantic
+fastapi
+uvicorn
+streamlit
+requests
 
-# pdf loader 
-pypdf
-
-# Vector DB Essentials
-chromadb
-tiktoken
-
-# Flask
-Flask
